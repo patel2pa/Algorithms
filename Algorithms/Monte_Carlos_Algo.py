@@ -1,6 +1,7 @@
 """
 Monte Carlo algorithm that predicts the best moves given
-x number of iterations 
+x number of iterations. For this program, a game called 
+21 is used. 
 """
 
 import random
