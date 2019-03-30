@@ -1,3 +1,4 @@
+import node from Node
 class Stack:
   def __init__(self, name):
     self.size = 0
